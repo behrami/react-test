@@ -12,7 +12,6 @@ function App() {
         <Route path="/" exact />
       </Switch>
     </Router>
-    <h1>Hello World</h1>
     </>
   );
 }
